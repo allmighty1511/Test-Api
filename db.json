@@ -1,0 +1,52 @@
+{
+    "burguers": [
+        {
+            "id": 0,
+            "name": "Tribute Burguer",
+            "restaurant": "Honest Burguers",
+            "web": "www.honestburguers.co.uk",
+            "description": "A mouth-watering honest beef burguer",
+            "ingredients": [
+                "beef",
+                "american cheese",
+                "burguer sauce",
+                "french mustard",
+                "pickles",
+                "onion",
+                "lettuce"
+            ],
+            "addresses": [
+                {
+                    "addressid": 0,
+                    "number": "75",
+                    "line1": "Venn Street",
+                    "line2": "Clapham",
+                    "postcode": "SW4 0BD",
+                    "country": "United Kingdom"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Pulled Mooshie",
+            "restaurant": "Mooshies",
+            "web": "www.veganburger.org",
+            "description": "Spicy vegan burger with jackfruit",
+            "ingredients": [
+                "jackfruit",
+                "coleslaw",
+                "gluten free bun"
+            ],
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "104",
+                    "line1": "Brick Lane",
+                    "line2": "Shoreditch",
+                    "postcode": "E1 6RL",
+                    "country": "United Kingdom"
+                }
+            ]
+        }
+    ]
+}
